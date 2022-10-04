@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "nama": "Fakultas Teknik",
+    "prodi": [
+      {
+        "id": "1",
+        "nama": "Teknik Elektro"
+      },
+      {
+        "id": "2",
+        "nama": "Teknik Mesin"
+      },
+      {
+        "id": "3",
+        "nama": "Teknik Kimia"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "nama": "Fakultas MIPA",
+    "prodi": [
+      {
+        "id": "1",
+        "nama": "Matematika"
+      },
+      {
+        "id": "2",
+        "nama": "Fisika"
+      },
+      {
+        "id": "3",
+        "nama": "Informatika"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "nama": "Fakultas Ekonomi",
+    "prodi": [
+      {
+        "id": "1",
+        "nama": "Akuntansi"
+      },
+      {
+        "id": "2",
+        "nama": "Ekonomi"
+      },
+      {
+        "id": "3",
+        "nama": "Ekonomi Islam"
+      }
+    ]
+  }
+]
